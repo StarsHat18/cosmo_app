@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539051027292",
+    "project_id": "signin-bb8fa",
+    "storage_bucket": "signin-bb8fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539051027292:android:d522637e80b57938402f99",
+        "android_client_info": {
+          "package_name": "com.example.cosmo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS1sHwmOWp4kG2SCmPucKKjWVEm3XsF00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
